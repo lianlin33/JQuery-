@@ -1,0 +1,8 @@
+#box1,#box2,#box3{
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+}
+.gold{
+    background-color: gold !important;
+}
